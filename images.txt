@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 ubuntu:22.04
+alpine:3.21.3
