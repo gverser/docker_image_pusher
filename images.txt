@@ -5,6 +5,6 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-redis/redis-stack:7.4.0-v8
+#redis/redis-stack:7.4.0-v8
 
-
+mysql:8.0.44
